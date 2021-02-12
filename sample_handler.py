@@ -3,7 +3,7 @@ The sample handler is a multi purpose python script for reading, converting and 
 microcontroller based sample playback player. Its required to use this in combination with an audio tool like audacity
 and the binary2header converter which is also included in the project.
 
-    Preperation (Example):
+    Preparation (Example):
     - Load up a sample in Audacity
     - Reduce the project rate down to 11025
     - Export Audio as raw header-less file with unsigned (important!) 8 or 16 bit encoding
